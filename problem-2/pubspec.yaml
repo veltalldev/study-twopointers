@@ -1,0 +1,13 @@
+name: watercontainer
+description: Given an array f(i) = height of vertical line at i, find i&j such that the "container" has max area
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  collection: ^1.16.0
+  http: ^1.2.2
+
+dev_dependencies:
+  test: ^1.25.8
+  
