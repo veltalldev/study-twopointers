@@ -1,0 +1,11 @@
+name: twosum
+description: Given an array of integers nums sorted in non-decreasing order, and an integer target, find two numbers such that they add up to the target.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  collection: ^1.16.0
+
+dev_dependencies:
+  test: ^1.25.8
